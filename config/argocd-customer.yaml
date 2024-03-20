@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/danielcorreaa/tech-challenge-customer.git
+    repoURL: https://github.com/danielcorreaa/kind-kong.git
     targetRevision: HEAD
     path: apps/mysql
   destination:
